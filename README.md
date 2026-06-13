@@ -121,6 +121,11 @@ All 26 uppercase letters (A–Z) encode and decode correctly. Timer1 jitter is �
 
 ## Team
 
-[@username](https://github.com/username) · [@username](https://github.com/username) · [@username](https://github.com/username) · [@username](https://github.com/username)
+| Name                    | GitHub                                                       |
+| ----------------------- | ------------------------------------------------------------ |
+| Muhammad Fasih Ul Islam | [github.com/Fasih-ulislam](https://github.com/Fasih-ulislam) |
+| Sameen                  | [github.com/sameenumar](https://github.com/sameenumar)       |
+| Maryam                  | [github.com/umaryamm](https://github.com/umaryamm)           |
+| Hassaan                 | [github.com/ihassaanadeem](https://github.com/ihassaanadeem) |
 
 SEECS, National University of Sciences & Technology (NUST) — Spring 2026
